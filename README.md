@@ -1,3 +1,3 @@
-# DigitalGeographiesBibliography
+# Digital Geographies Books
 
 test
