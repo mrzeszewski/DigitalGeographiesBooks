@@ -6,7 +6,7 @@ This
 
 This is intended to be a collaboratove endavb
 
--**Pull request**(https://github.com/mrzeszewski/DigitalGeographiesBooks/pulls) to add new things
+-[**Pull request**](https://github.com/mrzeszewski/DigitalGeographiesBooks/pulls) to add new things
 -Edit the file directly through forking You can edit the file directly also.
 
 Please try to keep formatting consistent with the list. Use APA style for citations. 
