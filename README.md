@@ -7,7 +7,7 @@ This
 This is intended to be a collaboratove endavb
 
 - [**Pull request**](https://github.com/mrzeszewski/DigitalGeographiesBooks/pulls) to add new things
-- [**Editing the file directly**](https://github.com/mrzeszewski/DigitalGeographiesBooks/edit/master/README.md) through forking .
+- [**Editing the file directly**](https://github.com/mrzeszewski/DigitalGeographiesBooks/edit/main/README.md) through forking .
 
 Please try to keep formatting consistent with the list. Use APA style for citations. 
 End a line with a double space for a line break.
