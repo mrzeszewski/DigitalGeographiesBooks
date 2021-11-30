@@ -10,7 +10,7 @@ This is intended to be a collaboratove endavour. This means that it us upon you 
 You can help maintain this list 
 - [**Pull request**](https://github.com/mrzeszewski/DigitalGeographiesBooks/pulls) to add new things;
 - [**Editing the file directly**](https://github.com/mrzeszewski/DigitalGeographiesBooks/edit/main/README.md) through forking;
-- **[Mail me]**(mailto:mrz@amu.edu.pl) or contact me in any other way with a suggestion.
+- **[Mail me]**(mrz@amu.edu.pl) or contact me in any other way with a suggestion.
 
 Please try to keep formatting consistent with the list. Use APA style for citations. 
 End a line with a double space for a line break.
