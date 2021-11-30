@@ -27,6 +27,8 @@ Books are sorted into basic themes. Theya are all arbitrary as with all such cla
 
 ### Geographies of the digital
 
+### Smart cities
+
 ### Digital Earth
 
 ### Endless possibilities
