@@ -56,6 +56,7 @@ Digital revolution brought a deluge of spatial data and possibility of taking a 
 
 1. Kitchin, R. (2021). **The Data Revolution: A critical analysis of big data, open data and data infrastructures**. Sage (revsion of 2014 book)
 2. Kitchin, R. (2021). **Data Lives: How Data Are Made and Shape Our World**. Policy Press.
+3. Thatcher, J., Shears, A., & Eckert, J. (Eds.). (2018). **Thinking Big data in geography: New regimes, new research.** U of Nebraska Press.
 
 ### Geographies of the digital
 Digital technologies produce and transform geographies but they also have they own geographies.
@@ -75,12 +76,13 @@ Digital technologies produce and transform geographies but they also have they o
 1. Luque-Ayala, A., & Marvin, S. (2020). **Urban operating systems: Producing the computational city**. MIT Press.
 2. Mattern, S. (2020). **A city is not a computer. In The Routledge Companion to Smart Cities**. Routledge.
 3. Coletta, C., Evans, L., Heaphy, L., & Kitchin, R. (Eds.). (2018).**Creating smart cities**. Routledge.
-4. Aurigi, A. (2016). **Making the Digital City: The Early Shaping of Urban Internet Space**. Routledge. 
-5. Shaw, J., & Graham, M. (2016). **Our Digital Rights to the City**. Meatspace Press.
-6. Mattern, S. (2015). **Deep mapping the media city**. U of Minnesota Press.
-7. Foth, M., Brynskov, M., & Ojala, T. (Red.). (2015). **Citizen’s Right to the Digital City**. Springer Singapore
-8. Townsend, A. M. (2013). **Smart cities: Big data, civic hackers, and the quest for a new utopia**. WW Norton & Company.
-9. Ishida, T. (2000). Digital cities: **Technologies, experiences and future perspectives** (T. 1). Springer.
+4. Kitchin, R., & Perng, S. Y. (2016).**Code and the City**. Routledge.
+5. Aurigi, A. (2016). **Making the Digital City: The Early Shaping of Urban Internet Space**. Routledge. 
+6. Shaw, J., & Graham, M. (2016). **Our Digital Rights to the City**. Meatspace Press.
+7. Mattern, S. (2015). **Deep mapping the media city**. U of Minnesota Press.
+8. Foth, M., Brynskov, M., & Ojala, T. (Red.). (2015). **Citizen’s Right to the Digital City**. Springer Singapore
+9. Townsend, A. M. (2013). **Smart cities: Big data, civic hackers, and the quest for a new utopia**. WW Norton & Company.
+10. Ishida, T. (2000). Digital cities: **Technologies, experiences and future perspectives** (T. 1). Springer.
 
 
 ### Digital technology
