@@ -36,7 +36,8 @@ The space/place is a main theme within geography and it is no suprise that it al
 1. Champion, E. M. (2021). **Rethinking Virtual Places**. Indiana University Press
 2. Halegoua, G. R. (2020). **The Digital City**. New York University Press. 
 3. Champion, E. (Ed.). (2019). **The phenomenology of real and virtual places**. New York and London: Routledge
-4. Kitchin, R., & Dodge, M. (2014). **Code/space: Software and everyday life**. Mit Press
+4. Mattern, S. (2017). **Code and clay, data and dirt: Five thousand years of urban media**. U of Minnesota Press.
+5. Kitchin, R., & Dodge, M. (2014). **Code/space: Software and everyday life**. Mit Press
 
 ### Methods
 Digital revolution is rich with new methods, data sources and new takes on existing methodologies.
@@ -51,12 +52,15 @@ Digital revolution brought a deluge of spatial data and possibility of taking a 
 2. 
 
 ### Geographies of the digital
-Digital
+Digital technologies produce and transform geographies but they also have they own geographies.
 
 1. Murphy, J.T. and Carmody, P. (2015) **Africa's Information Revolution**, RGS-Wiley
+2. Warf, B. (2012). **Global geographies of the internet**. Springer Science & Business Media.
 
 ### Smart cities
 1. Luque-Ayala, A., & Marvin, S. (2020). **Urban operating systems: Producing the computational city**. MIT Press.
+2. Mattern, S. (2020). **A city is not a computer. In The Routledge Companion to Smart Cities**. Routledge.
+3. Mattern, S. (2015). **Deep mapping the media city**. U of Minnesota Press.
 
 ### Digital technology
 
@@ -67,9 +71,15 @@ Digital
 5. Kleine, D (2013) **Technologies of Choice? ICTs, development and the capabilities approach**, MIT Press
 6. Unwin, P. T. H., & Unwin, T. (Eds.). (2009). **ICT4D: Information and communication technology for development**. Cambridge University Press.
 
+### Spatial media
+
+1. Kitchin, R., Lauriault, T. P., & Wilson, M. W. (Eds.). (2017). **Understanding spatial media**. Sage.
+2. Evans, L. (2015). **Locative Social Media**. Palgrave Mcmilan.
+
 ### Games and gaming
 
 1. Ash, J. (2015).**The interface envelope: Gaming, technology, power**. Bloomsbury Publishing USA
+
 
 ### Digital Earth
 
