@@ -27,6 +27,8 @@ Things you can start with to have soime basic understanding of the current views
 
 1. Ash, J., Kitchin, R., & Leszczynski, A. (Eds.). (2018). **Digital geographies**. Sage.
 2. McLean, J. (2020). **Changing digital geographies**. Palgrave Macmillan
+3. Bork-Hüffer, T., Füller, H., & Straube, T. (2021). **Handbuch Digitale Geographien: Welt-Wissen-Werkzeuge** (Vol. 5567). UTB.
+4. Crang, M., Crang, P., & May, J. (Eds.). (1999). **Virtual geographies: bodies, space and relations**. Psychology Press.
 
 ### Space/place
 The space/place is a main theme within geography and it is no suprise that it also make a strong appearance within digital geography thought.
@@ -49,16 +51,21 @@ Digital revolution brought a deluge of spatial data and possibility of taking a 
 2. 
 
 ### Geographies of the digital
-Digital 
+Digital
+
+1. Murphy, J.T. and Carmody, P. (2015) **Africa's Information Revolution**, RGS-Wiley
 
 ### Smart cities
 1. Luque-Ayala, A., & Marvin, S. (2020). **Urban operating systems: Producing the computational city**. MIT Press.
 
 ### Digital technology
 
-1. Jackson, Davina, 2019,**Data Cities: How satellites are transforming architecture and design**. London: Lund Humphries.
-2. Evans, L. (2018). **The re-emergence of virtual reality**. Routledge.
-3. Ash, J. (2017). **Phase media: Space, time and the politics of smart objects**. Bloomsbury Publishing USA
+1. Jones, P. I. (2020). **Bodies, technologies and methods**. Routledge.
+2. Jackson, Davina, 2019,**Data Cities: How satellites are transforming architecture and design**. London: Lund Humphries.
+3. Evans, L. (2018). **The re-emergence of virtual reality**. Routledge.
+4. Ash, J. (2017). **Phase media: Space, time and the politics of smart objects**. Bloomsbury Publishing USA
+5. Kleine, D (2013) **Technologies of Choice? ICTs, development and the capabilities approach**, MIT Press
+6. Unwin, P. T. H., & Unwin, T. (Eds.). (2009). **ICT4D: Information and communication technology for development**. Cambridge University Press.
 
 ### Games and gaming
 
@@ -67,7 +74,11 @@ Digital
 ### Digital Earth
 
 1. Guo, H., Goodchild, M. F., & Annoni, A. (2020).**Manual of Digital Earth** (p. 852). Springer Nature.
-3. Jackson, D., & Simpson, R. (Eds.). (2013).**D_City: Digital Earth| Virtual Nations| Data Cities: Connecting Global Futures for Environmental Planning**. DCity.
+2. Jackson, D., & Simpson, R. (Eds.). (2013).**D_City: Digital Earth| Virtual Nations| Data Cities: Connecting Global Futures for Environmental Planning**. DCity.
+
+### Digital Economy
+
+1. Graham, M. (2018) (Ed.), **Digital Economies at Global Margins Cambridge**, MA: MIT Press
 
 ### Endless other possibilities
 
