@@ -26,6 +26,7 @@ Books are sorted into basic themes. They are are all arbitrary, as with all such
 Things you can start with to have soime basic understanding of the current views on what are digital geographies, why they are interesting, defnitons and terms being used etc. 
 
 1. Ash, J., Kitchin, R., & Leszczynski, A. (Eds.). (2018). **Digital geographies**. Sage.
+2. McLean, J. (2020). **Changing digital geographies**. Palgrave Macmillan
 
 ### Space/place
 The space/place is a main theme within geography and it is no suprise that it also make a strong appearance within digital geography thought.
@@ -54,14 +55,18 @@ Digital
 
 ### Digital technology
 
-1. Evans, L. (2018). **The re-emergence of virtual reality**. Routledge.
-2. Ash, J. (2017). **Phase media: Space, time and the politics of smart objects**. Bloomsbury Publishing USA
+1. Jackson, Davina, 2019,**Data Cities: How satellites are transforming architecture and design**. London: Lund Humphries.
+2. Evans, L. (2018). **The re-emergence of virtual reality**. Routledge.
+3. Ash, J. (2017). **Phase media: Space, time and the politics of smart objects**. Bloomsbury Publishing USA
 
 ### Games and gaming
 
 1. Ash, J. (2015).**The interface envelope: Gaming, technology, power**. Bloomsbury Publishing USA
 
 ### Digital Earth
+
+1. Guo, H., Goodchild, M. F., & Annoni, A. (2020).**Manual of Digital Earth** (p. 852). Springer Nature.
+3. Jackson, D., & Simpson, R. (Eds.). (2013).**D_City: Digital Earth| Virtual Nations| Data Cities: Connecting Global Futures for Environmental Planning**. DCity.
 
 ### Endless other possibilities
 
