@@ -55,27 +55,32 @@ Digital revolution is rich with new methods, data sources and new takes on exist
 Digital revolution brought a deluge of spatial data and possibility of taking a closer look at data geographies. 
 
 1. Kitchin, R. (2021). **The Data Revolution: A critical analysis of big data, open data and data infrastructures**. Sage (revsion of 2014 book)
-2. 
+2. Kitchin, R. (2021). **Data Lives: How Data Are Made and Shape Our World**. Policy Press.
 
 ### Geographies of the digital
 Digital technologies produce and transform geographies but they also have they own geographies.
 
-1. Murphy, J.T. and Carmody, P. (2015) **Africa's Information Revolution**, RGS-Wiley
-2. Warf, B. (2012). **Global geographies of the internet**. Springer Science & Business Media.
-3. Dodge, M., & Kitchin, R. (2001). **Mapping cyberspace**. Routledge London.
-4. Neff, G., & Nafus, D. (2016). **Self-tracking**. The MIT Press.
+1. Adams, P. C., & Warf, B. (Eds.). (2021).** Routledge Handbook of Media Geographies**. Routledge.
+2. Graham, M., & Dutton, W. H. (Eds.). (2019). **Society and the internet: How networks of information and communication are changing our lives**. Oxford University Press.
+3. Neff, G., & Nafus, D. (2016). **Self-tracking**. The MIT Press.
+4. Starosielski, N. (2015).**The undersea network**. Duke University Press.
+5. Murphy, J.T. and Carmody, P. (2015) **Africa's Information Revolution**, RGS-Wiley
+6. Warf, B. (2012). **Global geographies of the internet**. Springer Science & Business Media.
+7. Dodge, M., & Kitchin, R. (2001). **Mapping cyberspace**. Routledge London.
+
 
 
 
 ### Smart cities, digital cities
 1. Luque-Ayala, A., & Marvin, S. (2020). **Urban operating systems: Producing the computational city**. MIT Press.
 2. Mattern, S. (2020). **A city is not a computer. In The Routledge Companion to Smart Cities**. Routledge.
-3. Aurigi, A. (2016). **Making the Digital City: The Early Shaping of Urban Internet Space**. Routledge. 
-4. Shaw, J., & Graham, M. (2016). **Our Digital Rights to the City**. Meatspace Press.
-5. Mattern, S. (2015). **Deep mapping the media city**. U of Minnesota Press.
-6. Foth, M., Brynskov, M., & Ojala, T. (Red.). (2015). **Citizen’s Right to the Digital City**. Springer Singapore
-7. Townsend, A. M. (2013). **Smart cities: Big data, civic hackers, and the quest for a new utopia**. WW Norton & Company.
-8. Ishida, T. (2000). Digital cities: **Technologies, experiences and future perspectives** (T. 1). Springer.
+3. Coletta, C., Evans, L., Heaphy, L., & Kitchin, R. (Eds.). (2018).**Creating smart cities**. Routledge.
+4. Aurigi, A. (2016). **Making the Digital City: The Early Shaping of Urban Internet Space**. Routledge. 
+5. Shaw, J., & Graham, M. (2016). **Our Digital Rights to the City**. Meatspace Press.
+6. Mattern, S. (2015). **Deep mapping the media city**. U of Minnesota Press.
+7. Foth, M., Brynskov, M., & Ojala, T. (Red.). (2015). **Citizen’s Right to the Digital City**. Springer Singapore
+8. Townsend, A. M. (2013). **Smart cities: Big data, civic hackers, and the quest for a new utopia**. WW Norton & Company.
+9. Ishida, T. (2000). Digital cities: **Technologies, experiences and future perspectives** (T. 1). Springer.
 
 
 ### Digital technology
@@ -113,8 +118,9 @@ Digital technologies produce and transform geographies but they also have they o
 
 ### Digital Economy
 
-1. Pasquale, F. (2015). **The black box society: The secret algorithms that control money and information**. Harvard University Press.
+1. Woodcock, J., & Graham, M. (2019). **The gig economy. A critical introduction.** Cambridge: Polity.
 2. Graham, M. (2018) (Ed.), **Digital Economies at Global Margins Cambridge**, MA: MIT Press
+3. Pasquale, F. (2015). **The black box society: The secret algorithms that control money and information**. Harvard University Press.
 
 ### Endless other possibilities
 
