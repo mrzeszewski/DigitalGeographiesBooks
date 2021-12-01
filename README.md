@@ -35,6 +35,8 @@ Digital revolution is rich with new methods, data sources and new takes on exist
 Digital 
 
 ### Smart cities
+1. Luque-Ayala, A., & Marvin, S. (2020). Urban operating systems: Producing the computational city. MIT Press.
+
 
 
 
