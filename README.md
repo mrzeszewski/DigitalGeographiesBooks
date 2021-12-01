@@ -39,7 +39,8 @@ The space/place is a main theme within geography and it is no suprise that it al
 ### Methods
 Digital revolution is rich with new methods, data sources and new takes on existing methodologies.
 
-1. Von Benzon, N., Holton, M., Wilkinson, C., & Wilkinson, S. (Eds.). (2021). **Creative Methods for Human Geographers**. Sage
+1. Jones P & Osborne T [with Gadsby E, Keen N & Sullivan-Drage C] (_in press_) **Virtual reality methods: a guide for researchers in the social sciences and humanities**.  Bristol University Press,
+2. Von Benzon, N., Holton, M., Wilkinson, C., & Wilkinson, S. (Eds.). (2021). **Creative Methods for Human Geographers**. Sage
 
 ### Digital data
 Digital revolution brought a deluge of spatial data and possibility of taking a closer look at data geographies. 
