@@ -35,15 +35,21 @@ The space/place is a main theme within geography and it is no suprise that it al
 
 1. Champion, E. M. (2021). **Rethinking Virtual Places**. Indiana University Press
 2. Halegoua, G. R. (2020). **The Digital City**. New York University Press. 
-3. Champion, E. (Ed.). (2019). **The phenomenology of real and virtual places**. New York and London: Routledge
-4. Mattern, S. (2017). **Code and clay, data and dirt: Five thousand years of urban media**. U of Minnesota Press.
-5. Kitchin, R., & Dodge, M. (2014). **Code/space: Software and everyday life**. Mit Press
+3. Rajendran, L. P., & Odeleye, N. D. (Red.). (2020). **Mediated Identities in the Futures of Place: Emerging Practices and Spatial Cultures**. Springer International Publishing.
+4. Champion, E. (Ed.). (2019). **The phenomenology of real and virtual places**. New York and London: Routledge
+5. Mattern, S. (2017). **Code and clay, data and dirt: Five thousand years of urban media**. U of Minnesota Press
+6. Kitchin, R., & Dodge, M. (2014). **Code/space: Software and everyday life**. Mit Press
+7. Gordon, E., & Silva, A. de S. e. (2011). **Net locality: Why location matters in a networked world**. Wiley-Blackwell.
+
 
 ### Methods
 Digital revolution is rich with new methods, data sources and new takes on existing methodologies.
 
 1. Jones P & Osborne T [with Gadsby E, Keen N & Sullivan-Drage C] (_in press_) **Virtual reality methods: a guide for researchers in the social sciences and humanities**.  Bristol University Press,
 2. Von Benzon, N., Holton, M., Wilkinson, C., & Wilkinson, S. (Eds.). (2021). **Creative Methods for Human Geographers**. Sage
+3. Rose, G. (2016) **Visual Methodologies: An Introduction to Interpreting Visual Materials**. Sage
+4. Rogers, R. (2013).**Digital methods**. The MIT Press.
+
 
 ### Digital data
 Digital revolution brought a deluge of spatial data and possibility of taking a closer look at data geographies. 
@@ -56,11 +62,21 @@ Digital technologies produce and transform geographies but they also have they o
 
 1. Murphy, J.T. and Carmody, P. (2015) **Africa's Information Revolution**, RGS-Wiley
 2. Warf, B. (2012). **Global geographies of the internet**. Springer Science & Business Media.
+3. Dodge, M., & Kitchin, R. (2001). **Mapping cyberspace**. Routledge London.
+4. Neff, G., & Nafus, D. (2016). **Self-tracking**. The MIT Press.
 
-### Smart cities
+
+
+### Smart cities, digital cities
 1. Luque-Ayala, A., & Marvin, S. (2020). **Urban operating systems: Producing the computational city**. MIT Press.
 2. Mattern, S. (2020). **A city is not a computer. In The Routledge Companion to Smart Cities**. Routledge.
-3. Mattern, S. (2015). **Deep mapping the media city**. U of Minnesota Press.
+3. Aurigi, A. (2016). **Making the Digital City: The Early Shaping of Urban Internet Space**. Routledge. 
+4. Shaw, J., & Graham, M. (2016). **Our Digital Rights to the City**. Meatspace Press.
+5. Mattern, S. (2015). **Deep mapping the media city**. U of Minnesota Press.
+6. Foth, M., Brynskov, M., & Ojala, T. (Red.). (2015). **Citizen’s Right to the Digital City**. Springer Singapore
+7. Townsend, A. M. (2013). **Smart cities: Big data, civic hackers, and the quest for a new utopia**. WW Norton & Company.
+8. Ishida, T. (2000). Digital cities: **Technologies, experiences and future perspectives** (T. 1). Springer.
+
 
 ### Digital technology
 
@@ -74,11 +90,20 @@ Digital technologies produce and transform geographies but they also have they o
 ### Spatial media
 
 1. Kitchin, R., Lauriault, T. P., & Wilson, M. W. (Eds.). (2017). **Understanding spatial media**. Sage.
-2. Evans, L. (2015). **Locative Social Media**. Palgrave Mcmilan.
+2. McQuire, S. (2017). **Geomedia: Networked cities and the future of public space**. John Wiley & Sons.
+3. Evans, L., & Saker, M. (2017). **Location-Based Social Media**. Springer International Publishing.
+4. Evans, L. (2015). **Locative Social Media**. Palgrave Mcmilan.
+5. Scharl, A., & Tochtermann, K. (Eds.). (2009). **The geospatial web: how geobrowsers, social software and the Web 2.0 are shaping the network society**. Springer Science & Business Media.
+6. McQuire, S. (2008). **The media city: Media, architecture and urban space**. Sage.
+7. Turner, A. (2006). **Introduction to neogeography**. O’Reilly Media, Inc.
+
 
 ### Games and gaming
 
-1. Ash, J. (2015).**The interface envelope: Gaming, technology, power**. Bloomsbury Publishing USA
+1. Saker, M., & Evans, L. (2021). **Intergenerational locative play augmenting family**. Emerald Publishing.
+2. Ash, J. (2015).**The interface envelope: Gaming, technology, power**. Bloomsbury Publishing USA
+3. Castronova, E. (2007). **Exodus to the Virtual World: How Online Fun Is Changing Reality**. Palgrave Macmillan.
+
 
 
 ### Digital Earth
@@ -88,7 +113,8 @@ Digital technologies produce and transform geographies but they also have they o
 
 ### Digital Economy
 
-1. Graham, M. (2018) (Ed.), **Digital Economies at Global Margins Cambridge**, MA: MIT Press
+1. Pasquale, F. (2015). **The black box society: The secret algorithms that control money and information**. Harvard University Press.
+2. Graham, M. (2018) (Ed.), **Digital Economies at Global Margins Cambridge**, MA: MIT Press
 
 ### Endless other possibilities
 
