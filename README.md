@@ -43,7 +43,7 @@ The space/place is a main theme within geography and it is no suprise that it al
 
 
 ### Methods
-Digital revolution is rich with new methods, data sources and new takes on existing methodologies.
+Digital geography is rich with new methods, data sources and new takes on existing methodologies.
 
 1. Jones P & Osborne T [with Gadsby E, Keen N & Sullivan-Drage C] (_in press_) **Virtual reality methods: a guide for researchers in the social sciences and humanities**.  Bristol University Press,
 2. Von Benzon, N., Holton, M., Wilkinson, C., & Wilkinson, S. (Eds.). (2021). **Creative Methods for Human Geographers**. Sage
@@ -61,18 +61,22 @@ Digital revolution brought a deluge of spatial data and possibility of taking a 
 ### Geographies of the digital
 Digital technologies produce and transform geographies but they also have they own geographies.
 
-1. Adams, P. C., & Warf, B. (Eds.). (2021).** Routledge Handbook of Media Geographies**. Routledge.
+1. Adams, P. C., & Warf, B. (Eds.). (2021).**Routledge Handbook of Media Geographies**. Routledge.
 2. Graham, M., & Dutton, W. H. (Eds.). (2019). **Society and the internet: How networks of information and communication are changing our lives**. Oxford University Press.
-3. Neff, G., & Nafus, D. (2016). **Self-tracking**. The MIT Press.
-4. Starosielski, N. (2015).**The undersea network**. Duke University Press.
-5. Murphy, J.T. and Carmody, P. (2015) **Africa's Information Revolution**, RGS-Wiley
-6. Warf, B. (2012). **Global geographies of the internet**. Springer Science & Business Media.
-7. Dodge, M., & Kitchin, R. (2001). **Mapping cyberspace**. Routledge London.
+3. Nash, C. J., & Gorman-Murray, A. (Eds.). (2019). **The geographies of digital sexuality**. Palgrave Macmillan.
+4. Felgenhauer, T., & Gäbler, K. (Eds.). (2018). **Geographies of Digital Culture**. Routledge. 
+5. Neff, G., & Nafus, D. (2016). **Self-tracking**. The MIT Press.
+6. Starosielski, N. (2015).**The undersea network**. Duke University Press.
+7. Murphy, J.T. and Carmody, P. (2015) **Africa's Information Revolution**, RGS-Wiley
+8. Warf, B. (2012). **Global geographies of the internet**. Springer Science & Business Media.
+9. Dodge, M., & Kitchin, R. (2001). **Mapping cyberspace**. Routledge London.
 
 
 
 
 ### Smart cities, digital cities
+Various interconnectione between technology, society and space within urban contexts
+
 1. Luque-Ayala, A., & Marvin, S. (2020). **Urban operating systems: Producing the computational city**. MIT Press.
 2. Mattern, S. (2020). **A city is not a computer. In The Routledge Companion to Smart Cities**. Routledge.
 3. Coletta, C., Evans, L., Heaphy, L., & Kitchin, R. (Eds.). (2018).**Creating smart cities**. Routledge.
@@ -87,12 +91,14 @@ Digital technologies produce and transform geographies but they also have they o
 
 ### Digital technology
 
+
 1. Jones, P. I. (2020). **Bodies, technologies and methods**. Routledge.
 2. Jackson, Davina, 2019,**Data Cities: How satellites are transforming architecture and design**. London: Lund Humphries.
 3. Evans, L. (2018). **The re-emergence of virtual reality**. Routledge.
 4. Ash, J. (2017). **Phase media: Space, time and the politics of smart objects**. Bloomsbury Publishing USA
 5. Kleine, D (2013) **Technologies of Choice? ICTs, development and the capabilities approach**, MIT Press
 6. Unwin, P. T. H., & Unwin, T. (Eds.). (2009). **ICT4D: Information and communication technology for development**. Cambridge University Press.
+7. Brunn, S. D., Cutter, S. L., & Harrington Jr, J. W. (Eds.). (2004).**Geography and technology**. Springer Science & Business Media.
 
 ### Spatial media
 
@@ -108,8 +114,9 @@ Digital technologies produce and transform geographies but they also have they o
 ### Games and gaming
 
 1. Saker, M., & Evans, L. (2021). **Intergenerational locative play augmenting family**. Emerald Publishing.
-2. Ash, J. (2015).**The interface envelope: Gaming, technology, power**. Bloomsbury Publishing USA
-3. Castronova, E. (2007). **Exodus to the Virtual World: How Online Fun Is Changing Reality**. Palgrave Macmillan.
+2. Deshbandhu, A. (2020). **Gaming culture (s) in India: Digital play in everyday life**. Routledge India.
+3. Ash, J. (2015).**The interface envelope: Gaming, technology, power**. Bloomsbury Publishing USA
+4. Castronova, E. (2007). **Exodus to the Virtual World: How Online Fun Is Changing Reality**. Palgrave Macmillan.
 
 
 
