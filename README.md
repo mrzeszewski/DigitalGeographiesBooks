@@ -90,10 +90,10 @@ Various interconnectione between technology, society and space within urban cont
 
 
 ### Digital technology
-
+Technology and the way its shapes, creates and influence everyday spatialities
 
 1. Jones, P. I. (2020). **Bodies, technologies and methods**. Routledge.
-2. Jackson, Davina, 2019,**Data Cities: How satellites are transforming architecture and design**. London: Lund Humphries.
+2. Jackson, D. (2019). **Data Cities: How satellites are transforming architecture and design**. London: Lund Humphries.
 3. Evans, L. (2018). **The re-emergence of virtual reality**. Routledge.
 4. Ash, J. (2017). **Phase media: Space, time and the politics of smart objects**. Bloomsbury Publishing USA
 5. Kleine, D (2013) **Technologies of Choice? ICTs, development and the capabilities approach**, MIT Press
@@ -101,6 +101,7 @@ Various interconnectione between technology, society and space within urban cont
 7. Brunn, S. D., Cutter, S. L., & Harrington Jr, J. W. (Eds.). (2004).**Geography and technology**. Springer Science & Business Media.
 
 ### Spatial media
+Location data and location based services sparked new explicitly spatial type of media
 
 1. Kitchin, R., Lauriault, T. P., & Wilson, M. W. (Eds.). (2017). **Understanding spatial media**. Sage.
 2. McQuire, S. (2017). **Geomedia: Networked cities and the future of public space**. John Wiley & Sons.
@@ -112,6 +113,7 @@ Various interconnectione between technology, society and space within urban cont
 
 
 ### Games and gaming
+Spaces of gaming and spaces in games are rich ground for geographical inquiry
 
 1. Saker, M., & Evans, L. (2021). **Intergenerational locative play augmenting family**. Emerald Publishing.
 2. Deshbandhu, A. (2020). **Gaming culture (s) in India: Digital play in everyday life**. Routledge India.
