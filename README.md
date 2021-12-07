@@ -69,7 +69,8 @@ Digital technologies produce and transform geographies but they also have they o
 6. Starosielski, N. (2015).**The undersea network**. Duke University Press.
 7. Murphy, J.T. and Carmody, P. (2015) **Africa's Information Revolution**, RGS-Wiley
 8. Warf, B. (2012). **Global geographies of the internet**. Springer Science & Business Media.
-9. Dodge, M., & Kitchin, R. (2001). **Mapping cyberspace**. Routledge London.
+9. Crampton, J. W. (2003). **The political mapping of cyberspace**. University of Chicago Press.
+10. Dodge, M., & Kitchin, R. (2001). **Mapping cyberspace**. Routledge London.
 
 
 
