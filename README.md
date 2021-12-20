@@ -29,6 +29,8 @@ Things you can start with to have soime basic understanding of the current views
 2. McLean, J. (2020). **Changing digital geographies**. Palgrave Macmillan
 3. Bork-Hüffer, T., Füller, H., & Straube, T. (2021). **Handbuch Digitale Geographien: Welt-Wissen-Werkzeuge** (Vol. 5567). UTB.
 4. Crang, M., Crang, P., & May, J. (Eds.). (1999). **Virtual geographies: bodies, space and relations**. Psychology Press.
+5. Negroponte, N. (1995). **Being digital**. Hodder & Stoughton.
+
 
 ### Space/place
 The space/place is a main theme within geography and it is no suprise that it also make a strong appearance within digital geography thought.
