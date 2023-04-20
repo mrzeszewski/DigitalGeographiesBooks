@@ -2,7 +2,7 @@
 
 This is list of academic books that provide a kind of introduction into the wide range of themes and topics that can be brought together under the term **Digital Geographies**. It started as a request on the [Digital Geographies Research Group mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DIGITALGEOGRGS) for a library purchase recommendation, but soon grow beyond that goal. It is provided here free of charge and without any warranty. Always incomplete but hopefully constantly inspiring to dive into the stimulating world of digital geographies.  
 
-A version of this list is also available at the [Digital Geographies Research Group website](https://digitalgeographiesrg.org/) **(TO BE PUBLISHED)**
+A version of this list is also available at the [Digital Geographies Research Group website](https://digitalgeographiesrg.org/teaching-resources/digital-geographies-books)
 
 P.S. Why not include papers as well? A simple answer is that there are too many of them...but this is something to do as well. 
 
