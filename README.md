@@ -26,11 +26,12 @@ Books are sorted into basic themes. They are are all arbitrary, as with all such
 Things you can start with to have soime basic understanding of the current views on what are digital geographies, why they are interesting, defnitons and terms being used etc. 
 
 1. Ash, J., Kitchin, R., & Leszczynski, A. (Eds.). (2018). **Digital geographies**. Sage.
-2. McLean, J. (2020). **Changing digital geographies**. Palgrave Macmillan
-3. Bork-Hüffer, T., Füller, H., & Straube, T. (2021). **Handbuch Digitale Geographien: Welt-Wissen-Werkzeuge** (Vol. 5567). UTB.
-4. Crang, M., Crang, P., & May, J. (Eds.). (1999). **Virtual geographies: bodies, space and relations**. Psychology Press.
-5. Mitchell, W. J. (1996). **City of bits: space, place, and the infobahn**. MIT press.
-6. Negroponte, N. (1995). **Being digital**. Hodder & Stoughton.
+2.Osborne, T., & Jones, P. (Eds.). (2023). **A Research Agenda for Digital Geographies**. Edward Elgar Publishing
+3. McLean, J. (2020). **Changing digital geographies**. Palgrave Macmillan
+4. Bork-Hüffer, T., Füller, H., & Straube, T. (2021). **Handbuch Digitale Geographien: Welt-Wissen-Werkzeuge** (Vol. 5567). UTB.
+5. Crang, M., Crang, P., & May, J. (Eds.). (1999). **Virtual geographies: bodies, space and relations**. Psychology Press.
+6. Mitchell, W. J. (1996). **City of bits: space, place, and the infobahn**. MIT press.
+7. Negroponte, N. (1995). **Being digital**. Hodder & Stoughton.
 
 
 ### Space/place
